@@ -1,0 +1,43 @@
+{
+  "name": "monaco-editor-node",
+  "version": "0.0.1",
+  "description": "A wrapper to use some of monaco-editor functionalities in Node.js environment.",
+  "main": "src/index.js",
+  "module": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inokawa/monaco-editor-node.git"
+  },
+  "keywords": [
+    "monaco-editor",
+    "vscode",
+    "editor",
+    "node",
+    "synthax",
+    "highlight"
+  ],
+  "author": "inokawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inokawa/monaco-editor-node/issues"
+  },
+  "homepage": "https://github.com/inokawa/monaco-editor-node#readme",
+  "dependencies": {
+    "monaco-editor-core": "^0.21.2"
+  },
+  "devDependencies": {
+    "css-loader": "^4.3.0",
+    "file-loader": "^6.1.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
