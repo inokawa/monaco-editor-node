@@ -14,3 +14,7 @@ export function colorizeElement(...args) {
 export function colorize(...args) {
   return Colorizer.colorize(StaticServices.modeService.get(), ...args);
 }
+
+export function getCss() {
+  return StaticServices.standaloneThemeService.get()._allCSS;
+}
