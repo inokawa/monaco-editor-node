@@ -1,6 +1,6 @@
 {
   "name": "monaco-editor-node",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Wrapper of monaco-editor to use some functionalities in Node.js.",
   "main": "lib/index.js",
   "types": "types/index.d.ts",
