@@ -24,5 +24,6 @@ monaco.colorize(
 
 ## Features
 
+- [x] [colorizeElement](https://microsoft.github.io/monaco-editor/api/modules/monaco.editor.html#colorizeelement)
 - [x] [colorize](https://microsoft.github.io/monaco-editor/api/modules/monaco.editor.html#colorize)
 - [ ] [tokenize](https://microsoft.github.io/monaco-editor/api/modules/monaco.editor.html#tokenize)
