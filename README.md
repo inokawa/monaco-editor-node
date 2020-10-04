@@ -20,10 +20,14 @@ monaco.colorize(
 `, "text/css", {}).then((text) => {
   console.log(text);
 });
+
+console.log(monaco.getCss());
 ```
 
 ## Features
 
 - [x] [colorizeElement](https://microsoft.github.io/monaco-editor/api/modules/monaco.editor.html#colorizeelement)
 - [x] [colorize](https://microsoft.github.io/monaco-editor/api/modules/monaco.editor.html#colorize)
+- getCss
+  - Get CSS text which includes classes to colorize HTML created with `colorizeElement`/`colorize`.
 - [ ] [tokenize](https://microsoft.github.io/monaco-editor/api/modules/monaco.editor.html#tokenize)
