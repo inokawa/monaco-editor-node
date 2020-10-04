@@ -1,7 +1,7 @@
 {
   "name": "monaco-editor-node",
   "version": "0.0.1",
-  "description": "A wrapper of monaco-editor to use some functionalities in Node.js environment.",
+  "description": "Wrapper of monaco-editor to use some functionalities in Node.js.",
   "main": "lib/index.js",
   "types": "types/index.d.ts",
   "files": [
@@ -18,12 +18,13 @@
     "url": "git+https://github.com/inokawa/monaco-editor-node.git"
   },
   "keywords": [
-    "monaco-editor",
-    "vscode",
+    "monaco",
     "editor",
+    "vscode",
     "node",
     "synthax",
-    "highlight"
+    "highlight",
+    "text"
   ],
   "author": "inokawa",
   "license": "MIT",
