@@ -8,7 +8,7 @@ Wrapper of [monaco-editor](https://github.com/microsoft/monaco-editor) to use so
 npm install monaco-editor-node
 ```
 
-### Usage
+## Usage
 
 ```
 import * as monaco from "monaco-editor-node";
