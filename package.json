@@ -31,9 +31,9 @@
   },
   "homepage": "https://github.com/inokawa/monaco-editor-node#readme",
   "dependencies": {
-    "canvas": "^2.6.1",
     "jsdom": "^16.4.0",
-    "monaco-editor-core": "^0.21.2"
+    "monaco-editor-core": "^0.21.2",
+    "monaco-languages": "^2.1.1"
   },
   "devDependencies": {
     "css-loader": "^4.3.0",
