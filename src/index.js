@@ -1,5 +1,6 @@
-import { colorize as monacoColorize } from "monaco-editor-core/esm/vs/editor/standalone/browser/standaloneEditor";
+import { Colorizer } from "monaco-editor-core/esm/vs/editor/standalone/browser/colorizer";
+import { ModeServiceImpl } from "monaco-editor-core/esm/vs/editor/common/services/modeServiceImpl";
 
 export const colorize = (...args) => {
-  return monacoColorize(...args);
+  return Colorizer.colorize(new ModeServiceImpl(), ...args);
 };
