@@ -23,10 +23,13 @@
     "vscode",
     "node",
     "synthax",
+    "code",
+    "ast",
     "highlight",
-    "text"
+    "text",
+    "tokenize"
   ],
-  "author": "inokawa",
+  "author": "inokawa <stratoooo-taster@yahoo.co.jp> (https://github.com/inokawa/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/inokawa/monaco-editor-node/issues"
