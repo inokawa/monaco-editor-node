@@ -2,6 +2,8 @@
 
 exports[`colorize css 1`] = `"<span><span class=\\"mtk6\\">@import</span><span class=\\"mtk1\\"> </span><span class=\\"mtk5\\">url</span><span class=\\"mtk1\\">(</span><span class=\\"mtk20\\">\\"something.css\\"</span><span class=\\"mtk1\\">);</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk14\\">body</span><span class=\\"mtk1\\"> {</span></span><br/><span><span class=\\"mtk1\\">  </span><span class=\\"mtk4\\">margin:</span><span class=\\"mtk1\\"> </span><span class=\\"mtk7\\">0</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">  </span><span class=\\"mtk4\\">padding:</span><span class=\\"mtk1\\"> </span><span class=\\"mtk7\\">3em</span><span class=\\"mtk1\\"> </span><span class=\\"mtk7\\">6em</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">  </span><span class=\\"mtk4\\">font-family:</span><span class=\\"mtk1\\"> </span><span class=\\"mtk5\\">tahoma</span><span class=\\"mtk1\\">, </span><span class=\\"mtk5\\">arial</span><span class=\\"mtk1\\">, </span><span class=\\"mtk5\\">sans-serif</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">  </span><span class=\\"mtk4\\">color:</span><span class=\\"mtk1\\"> </span><span class=\\"mtk5\\">#000</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">}</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk14\\">#navigation</span><span class=\\"mtk1\\"> </span><span class=\\"mtk14\\">a</span><span class=\\"mtk1\\"> {</span></span><br/><span><span class=\\"mtk1\\">  </span><span class=\\"mtk4\\">font-weight:</span><span class=\\"mtk1\\"> </span><span class=\\"mtk5\\">bold</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">  </span><span class=\\"mtk4\\">text-decoration:</span><span class=\\"mtk1\\"> </span><span class=\\"mtk5\\">none</span><span class=\\"mtk1\\"> </span><span class=\\"mtk6\\">!important</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">}</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk14\\">h1</span><span class=\\"mtk1\\"> {</span></span><br/><span><span class=\\"mtk1\\">  </span><span class=\\"mtk4\\">font-size:</span><span class=\\"mtk1\\"> </span><span class=\\"mtk7\\">2.5em</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">}</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk14\\">h2</span><span class=\\"mtk1\\"> {</span></span><br/><span><span class=\\"mtk1\\">  </span><span class=\\"mtk4\\">font-size:</span><span class=\\"mtk1\\"> </span><span class=\\"mtk7\\">1.7em</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">}</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk14\\">h1:before</span><span class=\\"mtk1\\">, </span><span class=\\"mtk14\\">h2:before</span><span class=\\"mtk1\\"> {</span></span><br/><span><span class=\\"mtk1\\">  </span><span class=\\"mtk4\\">content:</span><span class=\\"mtk1\\"> </span><span class=\\"mtk20\\">\\"some contents\\"</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">}</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk14\\">code</span><span class=\\"mtk1\\"> {</span></span><br/><span><span class=\\"mtk1\\">  </span><span class=\\"mtk4\\">font-family:</span><span class=\\"mtk1\\"> </span><span class=\\"mtk5\\">courier</span><span class=\\"mtk1\\">, </span><span class=\\"mtk5\\">monospace</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">  </span><span class=\\"mtk4\\">font-size:</span><span class=\\"mtk1\\"> </span><span class=\\"mtk7\\">80%</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">  </span><span class=\\"mtk4\\">color:</span><span class=\\"mtk1\\"> </span><span class=\\"mtk5\\">#418A8A</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">}</span></span><br/><span><span></span></span><br/>"`;
 
+exports[`colorize js 1`] = `"<span><span class=\\"mtk8\\">// jqeuery excerpt:</span></span><br/><span><span class=\\"mtk8\\">//       1         2         3         4</span></span><br/><span><span class=\\"mtk8\\">//34567890123456789012345678901234567890</span></span><br/><span><span class=\\"mtk8\\">/*!</span></span><br/><span><span class=\\"mtk8\\"> * Sizzle CSS Selector Engine v2.3.0</span></span><br/><span><span class=\\"mtk8\\"> * https://sizzlejs.com/</span></span><br/><span><span class=\\"mtk8\\"> *</span></span><br/><span><span class=\\"mtk8\\"> * Copyright jQuery Foundation and other contribut</span><span class=\\"mtk8\\">ors</span></span><br/><span><span class=\\"mtk8\\"> * Released under the MIT license</span></span><br/><span><span class=\\"mtk8\\"> * http://jquery.org/license</span></span><br/><span><span class=\\"mtk8\\"> *</span></span><br/><span><span class=\\"mtk8\\"> * Date: 2016-01-04</span></span><br/><span><span class=\\"mtk8\\"> */</span></span><br/><span><span class=\\"mtk1\\">(</span><span class=\\"mtk6\\">function</span><span class=\\"mtk1\\">( window ) {</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk6\\">var</span><span class=\\"mtk1\\"> i,</span></span><br/><span><span class=\\"mtk1\\">    support,</span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk22\\">Expr</span><span class=\\"mtk1\\">,</span></span><br/><span><span class=\\"mtk1\\">    getText,</span></span><br/><span><span class=\\"mtk1\\">    isXML,</span></span><br/><span><span class=\\"mtk1\\">    tokenize,</span></span><br/><span><span class=\\"mtk1\\">    compile,</span></span><br/><span><span class=\\"mtk1\\">    select,</span></span><br/><span><span class=\\"mtk1\\">    outermostContext,</span></span><br/><span><span class=\\"mtk1\\">    sortInput,</span></span><br/><span><span class=\\"mtk1\\">    hasDuplicate,</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// Local document vars</span></span><br/><span><span class=\\"mtk1\\">    setDocument,</span></span><br/><span><span class=\\"mtk1\\">    document,</span></span><br/><span><span class=\\"mtk1\\">    docElem,</span></span><br/><span><span class=\\"mtk1\\">    documentIsHTML,</span></span><br/><span><span class=\\"mtk1\\">    rbuggyQSA,</span></span><br/><span><span class=\\"mtk1\\">    rbuggyMatches,</span></span><br/><span><span class=\\"mtk1\\">    matches,</span></span><br/><span><span class=\\"mtk1\\">    contains,</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// Instance-specific data</span></span><br/><span><span class=\\"mtk1\\">    expando = </span><span class=\\"mtk20\\">\\"sizzle\\"</span><span class=\\"mtk1\\"> + </span><span class=\\"mtk7\\">1</span><span class=\\"mtk1\\"> * </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">Date</span><span class=\\"mtk1\\">(),</span></span><br/><span><span class=\\"mtk1\\">    preferredDoc = window.document,</span></span><br/><span><span class=\\"mtk1\\">    dirruns = </span><span class=\\"mtk7\\">0</span><span class=\\"mtk1\\">,</span></span><br/><span><span class=\\"mtk1\\">    done = </span><span class=\\"mtk7\\">0</span><span class=\\"mtk1\\">,</span></span><br/><span><span class=\\"mtk1\\">    classCache = createCache(),</span></span><br/><span><span class=\\"mtk1\\">    tokenCache = createCache(),</span></span><br/><span><span class=\\"mtk1\\">    compilerCache = createCache(),</span></span><br/><span><span class=\\"mtk1\\">    sortOrder = </span><span class=\\"mtk6\\">function</span><span class=\\"mtk1\\">( a, b ) {</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk6\\">if</span><span class=\\"mtk1\\"> ( a === b ) {</span></span><br/><span><span class=\\"mtk1\\">            hasDuplicate = </span><span class=\\"mtk6\\">true</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">        }</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk6\\">return</span><span class=\\"mtk1\\"> </span><span class=\\"mtk7\\">0</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">    },</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// Instance methods</span></span><br/><span><span class=\\"mtk1\\">    hasOwn = ({}).hasOwnProperty,</span></span><br/><span><span class=\\"mtk1\\">    arr = [],</span></span><br/><span><span class=\\"mtk1\\">    pop = arr.pop,</span></span><br/><span><span class=\\"mtk1\\">    push_native = arr.push,</span></span><br/><span><span class=\\"mtk1\\">    push = arr.push,</span></span><br/><span><span class=\\"mtk1\\">    slice = arr.slice,</span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// Use a stripped-down indexOf as it's faster than</span><span class=\\"mtk8\\"> native</span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// https://jsperf.com/thor-indexof-vs-for/5</span></span><br/><span><span class=\\"mtk1\\">    indexOf = </span><span class=\\"mtk6\\">function</span><span class=\\"mtk1\\">( list, elem ) {</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk6\\">var</span><span class=\\"mtk1\\"> i = </span><span class=\\"mtk7\\">0</span><span class=\\"mtk1\\">,</span></span><br/><span><span class=\\"mtk1\\">            len = list.length;</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk6\\">for</span><span class=\\"mtk1\\"> ( ; i &lt; len; i++ ) {</span></span><br/><span><span class=\\"mtk1\\">            </span><span class=\\"mtk6\\">if</span><span class=\\"mtk1\\"> ( list[i] === elem ) {</span></span><br/><span><span class=\\"mtk1\\">                </span><span class=\\"mtk6\\">return</span><span class=\\"mtk1\\"> i;</span></span><br/><span><span class=\\"mtk1\\">            }</span></span><br/><span><span class=\\"mtk1\\">        }</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk6\\">return</span><span class=\\"mtk1\\"> -</span><span class=\\"mtk7\\">1</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">    },</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    booleans = </span><span class=\\"mtk20\\">\\"checked|selected|async|autofocus|autoplay|control</span><span class=\\"mtk20\\">s|defer|disabled|hidden|ismap|loop|multiple|open|r</span><span class=\\"mtk20\\">eadonly|required|scoped\\"</span><span class=\\"mtk1\\">,</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// Regular expressions</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// http://www.w3.org/TR/css3-selectors/#whitespace</span></span><br/><span><span class=\\"mtk1\\">    whitespace = </span><span class=\\"mtk20\\">\\"[\\\\\\\\x20\\\\\\\\t\\\\\\\\r\\\\\\\\n\\\\\\\\f]\\"</span><span class=\\"mtk1\\">,</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// http://www.w3.org/TR/CSS21/syndata.html#value-d</span><span class=\\"mtk8\\">ef-identifier</span></span><br/><span><span class=\\"mtk1\\">    identifier = </span><span class=\\"mtk20\\">\\"(?:\\\\\\\\\\\\\\\\.|[\\\\\\\\w-]|[^\\\\0-\\\\\\\\xa0])+\\"</span><span class=\\"mtk1\\">,</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// Attribute selectors: http://www.w3.org/TR/selec</span><span class=\\"mtk8\\">tors/#attribute-selectors</span></span><br/><span><span class=\\"mtk1\\">    attributes = </span><span class=\\"mtk20\\">\\"\\\\\\\\[\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\"*(\\"</span><span class=\\"mtk1\\"> + identifier + </span><span class=\\"mtk20\\">\\")(?:\\"</span><span class=\\"mtk1\\"> + whitespace +</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk8\\">// Operator (capture 2)</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\"*([*^$|!~]?=)\\"</span><span class=\\"mtk1\\"> + whitespace +</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk8\\">// \\"Attribute values must be CSS identifiers [capt</span><span class=\\"mtk8\\">ure 5] or strings [capture 3 or capture 4]\\"</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\"*(?:'((?:\\\\\\\\\\\\\\\\.|[^\\\\\\\\\\\\\\\\'])*)'|\\\\\\"((?:\\\\\\\\\\\\\\\\.|[^\\\\\\\\\\\\\\\\\\\\\\"]</span><span class=\\"mtk20\\">)*)\\\\\\"|(\\"</span><span class=\\"mtk1\\"> + identifier + </span><span class=\\"mtk20\\">\\"))|)\\"</span><span class=\\"mtk1\\"> + whitespace +</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\"*\\\\\\\\]\\"</span><span class=\\"mtk1\\">,</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    pseudos = </span><span class=\\"mtk20\\">\\":(\\"</span><span class=\\"mtk1\\"> + identifier + </span><span class=\\"mtk20\\">\\")(?:\\\\\\\\((\\"</span><span class=\\"mtk1\\"> +</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk8\\">// To reduce the number of selectors needing token</span><span class=\\"mtk8\\">ize in the preFilter, prefer arguments:</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk8\\">// 1. quoted (capture 3; capture 4 or capture 5)</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\"('((?:\\\\\\\\\\\\\\\\.|[^\\\\\\\\\\\\\\\\'])*)'|\\\\\\"((?:\\\\\\\\\\\\\\\\.|[^\\\\\\\\\\\\\\\\\\\\\\"])*)</span><span class=\\"mtk20\\">\\\\\\")|\\"</span><span class=\\"mtk1\\"> +</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk8\\">// 2. simple (capture 6)</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\"((?:\\\\\\\\\\\\\\\\.|[^\\\\\\\\\\\\\\\\()[\\\\\\\\]]|\\"</span><span class=\\"mtk1\\"> + attributes + </span><span class=\\"mtk20\\">\\")*)|\\"</span><span class=\\"mtk1\\"> +</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk8\\">// 3. anything else (capture 2)</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\".*\\"</span><span class=\\"mtk1\\"> +</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\")\\\\\\\\)|)\\"</span><span class=\\"mtk1\\">,</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// Leading and non-escaped trailing whitespace, ca</span><span class=\\"mtk8\\">pturing some non-whitespace characters preceding t</span><span class=\\"mtk8\\">he latter</span></span><br/><span><span class=\\"mtk1\\">    rwhitespace = </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( whitespace + </span><span class=\\"mtk20\\">\\"+\\"</span><span class=\\"mtk1\\">, </span><span class=\\"mtk20\\">\\"g\\"</span><span class=\\"mtk1\\"> ),</span></span><br/><span><span class=\\"mtk1\\">    rtrim = </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( </span><span class=\\"mtk20\\">\\"^\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\"+|((?:^|[^\\\\\\\\\\\\\\\\])(?:\\\\\\\\\\\\\\\\.)*)\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\"+$\\"</span><span class=\\"mtk1\\">, </span><span class=\\"mtk20\\">\\"g\\"</span><span class=\\"mtk1\\"> ),</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    rcomma = </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( </span><span class=\\"mtk20\\">\\"^\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\"*,\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\"*\\"</span><span class=\\"mtk1\\"> ),</span></span><br/><span><span class=\\"mtk1\\">    rcombinators = </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( </span><span class=\\"mtk20\\">\\"^\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\"*([&gt;+~]|\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\")\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\"*\\"</span><span class=\\"mtk1\\"> ),</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    rattributeQuotes = </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( </span><span class=\\"mtk20\\">\\"=\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\"*([^\\\\\\\\]'\\\\\\"]*?)\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\"*\\\\\\\\]\\"</span><span class=\\"mtk1\\">, </span><span class=\\"mtk20\\">\\"g\\"</span><span class=\\"mtk1\\"> ),</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    rpseudo = </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( pseudos ),</span></span><br/><span><span class=\\"mtk1\\">    ridentifier = </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( </span><span class=\\"mtk20\\">\\"^\\"</span><span class=\\"mtk1\\"> + identifier + </span><span class=\\"mtk20\\">\\"$\\"</span><span class=\\"mtk1\\"> ),</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    matchExpr = {</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\"ID\\"</span><span class=\\"mtk1\\">: </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( </span><span class=\\"mtk20\\">\\"^#(\\"</span><span class=\\"mtk1\\"> + identifier + </span><span class=\\"mtk20\\">\\")\\"</span><span class=\\"mtk1\\"> ),</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\"CLASS\\"</span><span class=\\"mtk1\\">: </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( </span><span class=\\"mtk20\\">\\"^\\\\\\\\.(\\"</span><span class=\\"mtk1\\"> + identifier + </span><span class=\\"mtk20\\">\\")\\"</span><span class=\\"mtk1\\"> ),</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\"TAG\\"</span><span class=\\"mtk1\\">: </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( </span><span class=\\"mtk20\\">\\"^(\\"</span><span class=\\"mtk1\\"> + identifier + </span><span class=\\"mtk20\\">\\"|[*])\\"</span><span class=\\"mtk1\\"> ),</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\"ATTR\\"</span><span class=\\"mtk1\\">: </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( </span><span class=\\"mtk20\\">\\"^\\"</span><span class=\\"mtk1\\"> + attributes ),</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\"PSEUDO\\"</span><span class=\\"mtk1\\">: </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( </span><span class=\\"mtk20\\">\\"^\\"</span><span class=\\"mtk1\\"> + pseudos ),</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\"CHILD\\"</span><span class=\\"mtk1\\">: </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( </span><span class=\\"mtk20\\">\\"^:(only|first|last|nth|nth-last)-(child|of-type)(</span><span class=\\"mtk20\\">?:\\\\\\\\(\\"</span><span class=\\"mtk1\\"> + whitespace +</span></span><br/><span><span class=\\"mtk1\\">            </span><span class=\\"mtk20\\">\\"*(even|odd|(([+-]|)(\\\\\\\\d*)n|)\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\"*(?:([+-]|)\\"</span><span class=\\"mtk1\\"> + whitespace +</span></span><br/><span><span class=\\"mtk1\\">            </span><span class=\\"mtk20\\">\\"*(\\\\\\\\d+)|))\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\"*\\\\\\\\)|)\\"</span><span class=\\"mtk1\\">, </span><span class=\\"mtk20\\">\\"i\\"</span><span class=\\"mtk1\\"> ),</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\"bool\\"</span><span class=\\"mtk1\\">: </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( </span><span class=\\"mtk20\\">\\"^(?:\\"</span><span class=\\"mtk1\\"> + booleans + </span><span class=\\"mtk20\\">\\")$\\"</span><span class=\\"mtk1\\">, </span><span class=\\"mtk20\\">\\"i\\"</span><span class=\\"mtk1\\"> ),</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk8\\">// For use in libraries implementing .is()</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk8\\">// We use this for POS matching in \`select\`</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk20\\">\\"needsContext\\"</span><span class=\\"mtk1\\">: </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( </span><span class=\\"mtk20\\">\\"^\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\"*[&gt;+~]|:(even|odd|eq|gt|lt|nth|first|last)(?:\\\\\\\\(\\"</span><span class=\\"mtk1\\"> +</span></span><br/><span><span class=\\"mtk1\\">            whitespace + </span><span class=\\"mtk20\\">\\"*((?:-\\\\\\\\d)?\\\\\\\\d*)\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\"*\\\\\\\\)|)(?=[^-]|$)\\"</span><span class=\\"mtk1\\">, </span><span class=\\"mtk20\\">\\"i\\"</span><span class=\\"mtk1\\"> )</span></span><br/><span><span class=\\"mtk1\\">    },</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    rinputs = </span><span class=\\"mtk14\\">/^(?:input|select|textarea|button)$/</span><span class=\\"mtk6\\">i</span><span class=\\"mtk1\\">,</span></span><br/><span><span class=\\"mtk1\\">    rheader = </span><span class=\\"mtk14\\">/^h\\\\d$/</span><span class=\\"mtk6\\">i</span><span class=\\"mtk1\\">,</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    rnative = </span><span class=\\"mtk14\\">/^[^{]+\\\\{\\\\s*\\\\[native \\\\w/</span><span class=\\"mtk1\\">,</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// Easily-parseable/retrievable ID or TAG or CLASS</span><span class=\\"mtk8\\"> selectors</span></span><br/><span><span class=\\"mtk1\\">    rquickExpr = </span><span class=\\"mtk14\\">/^(?:#([\\\\w-]+)|(\\\\w+)|\\\\.([\\\\w-]+))$/</span><span class=\\"mtk1\\">,</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    rsibling = </span><span class=\\"mtk14\\">/[+~]/</span><span class=\\"mtk1\\">,</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// CSS escapes</span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// http://www.w3.org/TR/CSS21/syndata.html#escaped</span><span class=\\"mtk8\\">-characters</span></span><br/><span><span class=\\"mtk1\\">    runescape = </span><span class=\\"mtk6\\">new</span><span class=\\"mtk1\\"> </span><span class=\\"mtk22\\">RegExp</span><span class=\\"mtk1\\">( </span><span class=\\"mtk20\\">\\"\\\\\\\\\\\\\\\\([\\\\\\\\da-f]{1,6}\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\"?|(\\"</span><span class=\\"mtk1\\"> + whitespace + </span><span class=\\"mtk20\\">\\")|.)\\"</span><span class=\\"mtk1\\">, </span><span class=\\"mtk20\\">\\"ig\\"</span><span class=\\"mtk1\\"> ),</span></span><br/><span><span class=\\"mtk1\\">    funescape = </span><span class=\\"mtk6\\">function</span><span class=\\"mtk1\\">( _, escaped, escapedWhitespace ) {</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk6\\">var</span><span class=\\"mtk1\\"> high = </span><span class=\\"mtk20\\">\\"0x\\"</span><span class=\\"mtk1\\"> + escaped - </span><span class=\\"mtk16\\">0x10000</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk8\\">// NaN means non-codepoint</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk8\\">// Support: Firefox&lt;24</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk8\\">// Workaround erroneous numeric interpretation of </span><span class=\\"mtk8\\">+\\"0x\\"</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk6\\">return</span><span class=\\"mtk1\\"> high !== high || escapedWhitespace ?</span></span><br/><span><span class=\\"mtk1\\">            escaped :</span></span><br/><span><span class=\\"mtk1\\">            high &lt; </span><span class=\\"mtk7\\">0</span><span class=\\"mtk1\\"> ?</span></span><br/><span><span class=\\"mtk1\\">                </span><span class=\\"mtk8\\">// BMP codepoint</span></span><br/><span><span class=\\"mtk1\\">                </span><span class=\\"mtk22\\">String</span><span class=\\"mtk1\\">.fromCharCode( high + </span><span class=\\"mtk16\\">0x10000</span><span class=\\"mtk1\\"> ) :</span></span><br/><span><span class=\\"mtk1\\">                </span><span class=\\"mtk8\\">// Supplemental Plane codepoint (surrogate pair)</span></span><br/><span><span class=\\"mtk1\\">                </span><span class=\\"mtk22\\">String</span><span class=\\"mtk1\\">.fromCharCode( high &gt;&gt; </span><span class=\\"mtk7\\">10</span><span class=\\"mtk1\\"> | </span><span class=\\"mtk16\\">0xD800</span><span class=\\"mtk1\\">, high &amp; </span><span class=\\"mtk16\\">0x3FF</span><span class=\\"mtk1\\"> | </span><span class=\\"mtk16\\">0xDC00</span><span class=\\"mtk1\\"> );</span></span><br/><span><span class=\\"mtk1\\">    },</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// CSS string/identifier serialization</span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// https://drafts.csswg.org/cssom/#common-serializ</span><span class=\\"mtk8\\">ing-idioms</span></span><br/><span><span class=\\"mtk1\\">    rcssescape = </span><span class=\\"mtk14\\">/([\\\\0-\\\\x1f\\\\x7f]|^-?\\\\d)|^-$|[^\\\\x80-\\\\uFFFF\\\\w-]/</span><span class=\\"mtk6\\">g</span><span class=\\"mtk1\\">,</span></span><br/><span><span class=\\"mtk1\\">    fcssescape = </span><span class=\\"mtk6\\">function</span><span class=\\"mtk1\\">( ch, asCodePoint ) {</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk6\\">if</span><span class=\\"mtk1\\"> ( asCodePoint ) {</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">            </span><span class=\\"mtk8\\">// U+0000 NULL becomes U+FFFD REPLACEMENT CHARACTE</span><span class=\\"mtk8\\">R</span></span><br/><span><span class=\\"mtk1\\">            </span><span class=\\"mtk6\\">if</span><span class=\\"mtk1\\"> ( ch === </span><span class=\\"mtk20\\">\\"\\\\0\\"</span><span class=\\"mtk1\\"> ) {</span></span><br/><span><span class=\\"mtk1\\">                </span><span class=\\"mtk6\\">return</span><span class=\\"mtk1\\"> </span><span class=\\"mtk20\\">\\"\\\\uFFFD\\"</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">            }</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">            </span><span class=\\"mtk8\\">// Control characters and (dependent upon position</span><span class=\\"mtk8\\">) numbers get escaped as code points</span></span><br/><span><span class=\\"mtk1\\">            </span><span class=\\"mtk6\\">return</span><span class=\\"mtk1\\"> ch.slice( </span><span class=\\"mtk7\\">0</span><span class=\\"mtk1\\">, -</span><span class=\\"mtk7\\">1</span><span class=\\"mtk1\\"> ) + </span><span class=\\"mtk20\\">\\"\\\\\\\\\\"</span><span class=\\"mtk1\\"> + ch.charCodeAt( ch.length - </span><span class=\\"mtk7\\">1</span><span class=\\"mtk1\\"> ).toString( </span><span class=\\"mtk7\\">16</span><span class=\\"mtk1\\"> ) + </span><span class=\\"mtk20\\">\\" \\"</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">        }</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk8\\">// Other potentially-special ASCII characters get </span><span class=\\"mtk8\\">backslash-escaped</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk6\\">return</span><span class=\\"mtk1\\"> </span><span class=\\"mtk20\\">\\"\\\\\\\\\\"</span><span class=\\"mtk1\\"> + ch;</span></span><br/><span><span class=\\"mtk1\\">    },</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// Used for iframes</span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// See setDocument()</span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// Removing the function wrapper causes a \\"Permiss</span><span class=\\"mtk8\\">ion Denied\\"</span></span><br/><span><span class=\\"mtk1\\">    </span><span class=\\"mtk8\\">// error in IE</span></span><br/><span><span class=\\"mtk1\\">    unloadHandler = </span><span class=\\"mtk6\\">function</span><span class=\\"mtk1\\">() {</span></span><br/><span><span class=\\"mtk1\\">        setDocument();</span></span><br/><span><span class=\\"mtk1\\">    },</span></span><br/><span><span></span></span><br/><span><span class=\\"mtk1\\">    disabledAncestor = addCombinator(</span></span><br/><span><span class=\\"mtk1\\">        </span><span class=\\"mtk6\\">function</span><span class=\\"mtk1\\">( elem ) {</span></span><br/><span><span class=\\"mtk1\\">            </span><span class=\\"mtk6\\">return</span><span class=\\"mtk1\\"> elem.disabled === </span><span class=\\"mtk6\\">true</span><span class=\\"mtk1\\">;</span></span><br/><span><span class=\\"mtk1\\">        },</span></span><br/><span><span class=\\"mtk1\\">        { dir: </span><span class=\\"mtk20\\">\\"parentNode\\"</span><span class=\\"mtk1\\">, next: </span><span class=\\"mtk20\\">\\"legend\\"</span><span class=\\"mtk1\\"> }</span></span><br/><span><span class=\\"mtk1\\">    );})</span></span><br/>"`;
+
 exports[`getCss default 1`] = `
 ".codicon-add:before { content: '\\\\ea60'; }
 .codicon-plus:before { content: '\\\\ea60'; }
@@ -909,6 +911,7551 @@ Array [
       "language": "text/css",
       "offset": 0,
       "type": "",
+    },
+  ],
+]
+`;
+
+exports[`tokenize js 1`] = `
+Array [
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 5,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 5,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "number.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 34,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 36,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "number.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 5,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "number.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 5,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "number.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "delimiter.bracket.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "delimiter.bracket.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 5,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "delimiter.square.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 5,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 5,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 32,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 34,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 5,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "number.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 5,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.angle.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 5,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.square.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "delimiter.square.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "number.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "delimiter.bracket.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 136,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 32,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 35,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "string.escape.invalid.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 35,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 36,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 38,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 45,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 32,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 34,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 35,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 39,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 40,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 41,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 42,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 52,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 53,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 54,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 55,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 61,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 62,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 63,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 64,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 74,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 75,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 37,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 41,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 45,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 51,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 55,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 57,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 60,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 61,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 62,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 63,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 73,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 74,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 75,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 76,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 82,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 83,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 84,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 85,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 95,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 96,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 36,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 38,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 41,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 42,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 34,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 38,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 42,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 48,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 52,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 54,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 57,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 58,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 41,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 42,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 43,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 44,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 50,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 51,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 37,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 38,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 39,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 40,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 43,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 44,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 45,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 48,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 49,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 50,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 37,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 38,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 39,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 40,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 51,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 55,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 60,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 64,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 69,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 70,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 71,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 72,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 82,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 83,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 84,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 85,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 89,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 90,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 91,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 94,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 95,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 96,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 38,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 39,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 40,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 41,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 45,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 46,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 47,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 48,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 58,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 59,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 60,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 61,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 64,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 65,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 66,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 32,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 34,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 44,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 45,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 46,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 47,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 57,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 58,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 59,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 60,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 70,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 71,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 72,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 73,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 76,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 77,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 78,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 79,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 89,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 90,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 91,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 92,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 95,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 96,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 97,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 32,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 35,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 36,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 37,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 38,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 48,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 49,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 50,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 51,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 56,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 58,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 60,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 62,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 67,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 68,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 69,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 70,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 80,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 81,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 82,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 83,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 85,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 87,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 89,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 90,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 91,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 94,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 95,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 96,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 32,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 32,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 43,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 44,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 45,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 46,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 49,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 50,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 51,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 38,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 39,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 40,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 41,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 44,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 45,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 46,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 32,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 43,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 44,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 45,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 46,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 49,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 50,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 51,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 38,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 39,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 40,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 41,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 48,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 49,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 50,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 38,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 39,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 40,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 37,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 38,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 39,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 75,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 77,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 79,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 80,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 81,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 82,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 92,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 93,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 34,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 35,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 36,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 46,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 47,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 48,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 49,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 62,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 63,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 64,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 65,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 75,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 76,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 35,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 39,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 40,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 41,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 44,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 45,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 46,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 39,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 40,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 41,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 42,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 46,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 47,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 48,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 51,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 52,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 53,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 34,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 35,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 36,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 46,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 47,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 48,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 49,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 95,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 97,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 99,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 100,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 34,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 35,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 36,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 37,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 47,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 48,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 49,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 50,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 52,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 54,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 68,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 69,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 70,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 73,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 74,
+      "type": "delimiter.parenthesis.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "delimiter.bracket.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 37,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 38,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 44,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 46,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 47,
+      "type": "keyword.other.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 48,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "regexp.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "keyword.other.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "regexp.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "regexp.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 32,
+      "type": "regexp.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 34,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 35,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "regexp.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "regexp.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 32,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 35,
+      "type": "regexp.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 37,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 39,
+      "type": "regexp.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 41,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 47,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 48,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 32,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 34,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 45,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 46,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 47,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 48,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 58,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 59,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 60,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 61,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 66,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 67,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 68,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 69,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 79,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 80,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 81,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 82,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 88,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 89,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 90,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 94,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 95,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 96,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 34,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 35,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 52,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 53,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 54,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 55,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 5,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "number.hex.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 37,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 43,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 44,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "delimiter.angle.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "number.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 32,
+      "type": "number.hex.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 39,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 40,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 41,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 42,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "type.identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 32,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "number.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 35,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 36,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 37,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 38,
+      "type": "number.hex.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 44,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 45,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 46,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 50,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 51,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 52,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 53,
+      "type": "number.hex.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 58,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 59,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 60,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 61,
+      "type": "number.hex.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 67,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 68,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 69,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "delimiter.bracket.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "regexp.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "regexp.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "regexp.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 35,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 43,
+      "type": "regexp.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 47,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 48,
+      "type": "regexp.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 56,
+      "type": "regexp.escape.control.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 58,
+      "type": "regexp.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 59,
+      "type": "keyword.other.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 60,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 39,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 40,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 41,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 42,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 5,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 5,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 6,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "string.escape.invalid.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "number.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "number.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 26,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 30,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 31,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 34,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 35,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 36,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 37,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 39,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 40,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 50,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 51,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 52,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 54,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 55,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 61,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 62,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 63,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 64,
+      "type": "number.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 65,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 66,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 67,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 68,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 76,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 77,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 78,
+      "type": "number.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 80,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 81,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 82,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 83,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 84,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 85,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 88,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "string.escape.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "delimiter.bracket.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "comment.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 25,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 13,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "delimiter.bracket.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 20,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 33,
+      "type": "delimiter.parenthesis.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 11,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 12,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 16,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 17,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 18,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 19,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 10,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 14,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 15,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 24,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "keyword.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 32,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "delimiter.bracket.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "delimiter.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "delimiter.bracket.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 7,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 8,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 9,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 21,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 22,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 23,
+      "type": "identifier.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 27,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 28,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 29,
+      "type": "string.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 37,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 38,
+      "type": "delimiter.bracket.js",
+    },
+  ],
+  Array [
+    n {
+      "language": "javascript",
+      "offset": 0,
+      "type": "",
+    },
+    n {
+      "language": "javascript",
+      "offset": 1,
+      "type": "delimiter.parenthesis.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 2,
+      "type": "delimiter.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 3,
+      "type": "delimiter.bracket.js",
+    },
+    n {
+      "language": "javascript",
+      "offset": 4,
+      "type": "delimiter.parenthesis.js",
     },
   ],
 ]
