@@ -1,4 +1,3 @@
-const webpack = require("webpack");
 const path = require("path");
 
 module.exports = {
@@ -11,7 +10,6 @@ module.exports = {
     libraryTarget: "umd",
   },
   target: "node",
-  plugins: [new webpack.IgnorePlugin(/canvas/, /jsdom/)],
   module: {
     rules: [
       {
