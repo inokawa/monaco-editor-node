@@ -1,5 +1,7 @@
 # monaco-editor-node
 
+![check](https://github.com/inokawa/monaco-editor-node/workflows/check/badge.svg)
+
 Wrapper of [monaco-editor](https://github.com/microsoft/monaco-editor) to use some functionalities in Node.js.
 
 ## Install
