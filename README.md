@@ -3,6 +3,7 @@
 ![check](https://github.com/inokawa/monaco-editor-node/workflows/check/badge.svg)
 
 Wrapper of [monaco-editor](https://github.com/microsoft/monaco-editor) to use some functionalities in Node.js.
+
 The bundle size is much smaller than original.
 
 ## Install
