@@ -4,6 +4,6 @@ export declare const colorizeElement = editor.colorizeElement;
 
 export declare const colorize = editor.colorize;
 
-export declare function getCss(): string;
+export declare function getColorizeCss(themeName: string): string;
 
 export declare const tokenize = editor.tokenize;

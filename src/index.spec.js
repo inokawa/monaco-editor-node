@@ -474,9 +474,18 @@ describe("colorize", () => {
   });
 });
 
-describe("getCss", () => {
-  it("default", () => {
-    expect(monaco.getCss()).toMatchSnapshot();
+describe("getColorizeCss", () => {
+  it("vs", () => {
+    expect(monaco.getColorizeCss("vs")).toMatchSnapshot();
+  });
+  it("vs-dark", () => {
+    expect(monaco.getColorizeCss("vs-dark")).toMatchSnapshot();
+  });
+  it("hc-black", () => {
+    expect(monaco.getColorizeCss("hc-black")).toMatchSnapshot();
+  });
+  it("unknown", () => {
+    expect(monaco.getColorizeCss("unknown")).toMatchSnapshot();
   });
 });
 
