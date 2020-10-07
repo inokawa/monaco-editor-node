@@ -13,7 +13,7 @@ npm install monaco-editor-node
 
 ## Usage
 
-```
+```javascript
 import * as monaco from "monaco-editor-node";
 
 monaco.colorize(
