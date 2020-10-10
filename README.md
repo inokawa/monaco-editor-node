@@ -30,8 +30,10 @@ console.log(monaco.getColorizeCss('vs'));
 
 ## Features
 
-- [x] [colorizeElement](https://microsoft.github.io/monaco-editor/api/modules/monaco.editor.html#colorizeelement)
-- [x] [colorize](https://microsoft.github.io/monaco-editor/api/modules/monaco.editor.html#colorize)
-- [x] `getColorizeCss(themeName: string): string`
+- [colorizeElement](https://microsoft.github.io/monaco-editor/api/modules/monaco.editor.html#colorizeelement)
+- [colorize](https://microsoft.github.io/monaco-editor/api/modules/monaco.editor.html#colorize)
+- `getColorizeCss(themeName: string): string`
   - Get CSS text which includes classes to colorize HTML created with `colorizeElement`/`colorize`. Theme names defined in monaco editor (`vs`, `vs-dark`, `hc-black`) will work.
-- [x] [tokenize](https://microsoft.github.io/monaco-editor/api/modules/monaco.editor.html#tokenize)
+- `getBackgroundColor(themeName: string): string`
+  - Get background color of editor. Theme names defined in monaco editor (`vs`, `vs-dark`, `hc-black`) will work.
+- [tokenize](https://microsoft.github.io/monaco-editor/api/modules/monaco.editor.html#tokenize)
