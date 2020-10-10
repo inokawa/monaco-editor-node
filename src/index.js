@@ -3,6 +3,7 @@ import { StaticServices } from "monaco-editor-core/esm/vs/editor/standalone/brow
 import { Colorizer } from "monaco-editor-core/esm/vs/editor/standalone/browser/colorizer";
 import { tokenize as monacoTokenize } from "monaco-editor-core/esm/vs/editor/standalone/browser/standaloneEditor";
 import { generateTokensCSSForColorMap } from "monaco-editor-core/esm/vs/editor/common/modes/supports/tokenization";
+import { editorBackground } from "monaco-editor-core/esm/vs/platform/theme/common/colorRegistry";
 import "monaco-languages/release/esm/monaco.contribution";
 
 export function colorizeElement(...args) {
@@ -23,6 +24,14 @@ export function getColorizeCss(themeName) {
     ._knownThemes.get(themeName);
   if (!theme) return "";
   return generateTokensCSSForColorMap(theme.tokenTheme.getColorMap());
+}
+
+export function getBackgroundColor(themeName) {
+  const theme = StaticServices.standaloneThemeService
+    .get()
+    ._knownThemes.get(themeName);
+  if (!theme) return "";
+  return theme.getColor(editorBackground).toString();
 }
 
 export function tokenize(...args) {

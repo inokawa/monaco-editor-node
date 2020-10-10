@@ -489,6 +489,21 @@ describe("getColorizeCss", () => {
   });
 });
 
+describe("getBackgroundColor", () => {
+  it("vs", () => {
+    expect(monaco.getBackgroundColor("vs")).toMatchSnapshot();
+  });
+  it("vs-dark", () => {
+    expect(monaco.getBackgroundColor("vs-dark")).toMatchSnapshot();
+  });
+  it("hc-black", () => {
+    expect(monaco.getBackgroundColor("hc-black")).toMatchSnapshot();
+  });
+  it("unknown", () => {
+    expect(monaco.getBackgroundColor("unknown")).toMatchSnapshot();
+  });
+});
+
 describe("tokenize", () => {
   it("js", () => {
     expect(monaco.tokenize(jsText, "javascript")).toMatchSnapshot();
