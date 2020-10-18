@@ -17,15 +17,20 @@ npm install monaco-editor-node
 ```javascript
 import * as monaco from "monaco-editor-node";
 
-monaco.colorize(
-`h1 {
+monaco
+  .colorize(
+    `h1 {
   font-size: 2.5em;
 }
-`, "text/css", {}).then((text) => {
-  console.log(text);
-});
+`,
+    "text/css",
+    {}
+  )
+  .then((text) => {
+    console.log(text);
+  });
 
-console.log(monaco.getColorizeCss('vs'));
+console.log(monaco.getColorizeCss("vs"));
 ```
 
 ## Features
@@ -37,3 +42,6 @@ console.log(monaco.getColorizeCss('vs'));
 - `getBackgroundColor(themeName: string): string`
   - Get background color of editor. Theme names defined in monaco editor (`vs`, `vs-dark`, `hc-black`) will work.
 - [tokenize](https://microsoft.github.io/monaco-editor/api/modules/monaco.editor.html#tokenize)
+- `computeDiff(originalLines: string[], modifiedLines: string[]): ILineChange[]`
+  - Get computed diff information from 2 texts splited into arrays by line break.
+  - [ILineChange](https://microsoft.github.io/monaco-editor/api/interfaces/monaco.editor.ilinechange.html)
