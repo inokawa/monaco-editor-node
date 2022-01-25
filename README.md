@@ -44,6 +44,3 @@ console.log(monaco.getColorizeCss("vs"));
 - `getBackgroundColor(themeName: string): string`
   - Get background color of editor. Theme names defined in monaco editor (`vs`, `vs-dark`, `hc-black`) will work.
 - [tokenize](https://microsoft.github.io/monaco-editor/api/modules/monaco.editor.html#tokenize)
-- `computeDiff(originalLines: string[], modifiedLines: string[]): ILineChange[]`
-  - Get computed diff information from 2 texts splited into arrays by line break.
-  - [ILineChange](https://microsoft.github.io/monaco-editor/api/interfaces/monaco.editor.ilinechange.html)
