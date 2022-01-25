@@ -6,6 +6,8 @@ Wrapper of [monaco-editor](https://github.com/microsoft/monaco-editor) to use so
 
 The bundle size is much smaller than original.
 
+See also [monaco-diff](https://github.com/inokawa/monaco-diff).
+
 ## Install
 
 ```
