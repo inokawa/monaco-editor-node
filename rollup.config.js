@@ -9,8 +9,11 @@ export default {
   output: [
     {
       file: pkg.main,
-      format: "umd",
-      name: pkg.name,
+      format: "cjs",
+    },
+    {
+      file: pkg.module,
+      format: "es",
     },
   ],
   plugins: [
@@ -23,5 +26,6 @@ export default {
     }),
     terser(),
   ],
+  treeshake: "smallest",
   inlineDynamicImports: true,
 };

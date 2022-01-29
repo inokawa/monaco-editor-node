@@ -3,10 +3,10 @@
   "version": "0.2.0",
   "description": "Wrapper of monaco-editor to use some functionalities in Node.js.",
   "main": "lib/index.js",
-  "types": "types/index.d.ts",
+  "module": "lib/index.mjs",
+  "types": "lib/index.d.ts",
   "files": [
-    "lib",
-    "types/*.d.ts"
+    "lib"
   ],
   "scripts": {
     "build": "rollup -c",
